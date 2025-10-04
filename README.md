@@ -93,7 +93,3 @@ Let’s build something meaningful together 💻
 
 ```
 
- 
-
-want me to make a variant for your **profile README** (a bit more personal + intro-focused)?
-```
