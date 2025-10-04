@@ -1,48 +1,37 @@
 
-
 ---
 
 ````md
-<h1 align="center">👋 Saptarshi Bannerjee</h1>
-<h3 align="center">Computer Science & Engineering | IIT (BHU), Varanasi</h3>
+# 👋 Saptarshi Bannerjee
 
-<p align="center">
-  <a href="https://github.com/A20archi">
-    <img src="https://img.shields.io/github/followers/A20archi?style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/saptarshi-banerjee-a22230386">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:b.saptarshi2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%F0%9F%93%A7-b.saptarshi2004@gmail.com-5558CC?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### 🎓 Computer Science & Engineering | IIT (BHU), Varanasi  
+📧 **Email:** [b.saptarshi2004@gmail.com](mailto:b.saptarshi2004@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/saptarshi-banerjee-a22230386](https://www.linkedin.com/in/saptarshi-banerjee-a22230386)  
+💻 **GitHub:** [github.com/A20archi](https://github.com/A20archi)
 
 ---
 
 ## 🧠 About Me
 
-I’m a **Computer Science and Engineering undergraduate** (Integrated Dual Degree) at **IIT (BHU), Varanasi** — passionate about **full-stack web development**, **data-driven applications**, and **AI-powered systems**.  
-I enjoy solving problems, learning new tech stacks, and building impactful tools that merge creativity with logic.
+I’m a **Computer Science and Engineering undergraduate** (Integrated Dual Degree) at **IIT (BHU), Varanasi** — passionate about **full-stack web development**, **data-driven systems**, and **AI-powered software**.  
+I love competitive programming, building impactful projects, and exploring how technology can solve real-world problems.
 
 ---
 
-## 📄 Resume & Contact
+## 📄 Resume
 
-- 🧾 **Resume (PDF):** [View or Download → resume.pdf](./resume.pdf)  
-- 📧 **Email:** [b.saptarshi2004@gmail.com](mailto:b.saptarshi2004@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/saptarshi-banerjee-a22230386](https://www.linkedin.com/in/saptarshi-banerjee-a22230386)  
+📑 [View / Download Resume →](./resume.pdf)
 
 ---
 
 ## 💡 Featured Projects
 
-| 🌐 Project | 🧩 Description | 🔗 Link |
-|------------|----------------|---------|
-| **[StudyMate](https://github.com/A20archi/StudyMate)** | A productivity web app that combines a study timer, to-do list, and notes section — supports offline storage, quotes, and weather-based background themes. | [🔗 GitHub](https://github.com/A20archi/StudyMate) |
-| **[CloudShare3D](https://github.com/A20archi/CloudShare3D)** | A Next.js-powered media management dashboard with 3D visuals and Cloudinary integration — featuring authentication, Prisma ORM, and NeonDB. | [🔗 GitHub](https://github.com/A20archi/CloudShare3D) |
-| **[NextJS_Login_Fullstack](https://github.com/A20archi/NextJS_Login_Fullstack)** | Full-stack authentication setup using Next.js, JWT, and MongoDB — includes secure login, signup, and email verification modules. | [🔗 GitHub](https://github.com/A20archi/NextJS_Login_Fullstack) |
-| **[AI-Powered Database Observability](https://github.com/Shadowed-stack/AI-Powered-Database-Observability)** | Open-source project built for the **E6 Data Hackathon**, enhancing database observability through AI insights and analytics. | [🔗 GitHub](https://github.com/Shadowed-stack/AI-Powered-Database-Observability) |
+| Project | Description | Link |
+|:--|:--|:--|
+| **StudyMate** | A productivity web app combining a study timer, to-do list, and notes — includes offline persistence, quotes, and weather-based backgrounds. | [🔗 GitHub](https://github.com/A20archi/StudyMate) |
+| **CloudShare3D** | A 3D-styled Next.js media dashboard with Cloudinary integration, Prisma ORM, and NeonDB backend. | [🔗 GitHub](https://github.com/A20archi/CloudShare3D) |
+| **NextJS_Login_Fullstack** | Full-stack authentication system using Next.js, JWT, and MongoDB — secure login, signup, and email verification. | [🔗 GitHub](https://github.com/A20archi/NextJS_Login_Fullstack) |
+| **AI-Powered Database Observability** | Open-source project built during the **E6 Data Hackathon**, improving database observability with AI insights. | [🔗 GitHub](https://github.com/Shadowed-stack/AI-Powered-Database-Observability) |
 
 ---
 
@@ -53,7 +42,7 @@ I enjoy solving problems, learning new tech stacks, and building impactful tools
 - 💡 **International Rank 2** — SOF English Olympiad  
 - 🧠 **Zonal Topper (×2)** — Science Olympiad Foundation  
 - 🧮 **Top 1% in JEE Mains** and admitted to IIT (BHU), Varanasi  
-- 🎓 **PM-INSPPIRE Scholarship Awardee**  
+- 🎓 **PM-INSPIRE Scholarship Awardee**  
 - 📊 Completed **Financial Markets (Yale University, Coursera)** with distinction  
 
 ---
@@ -61,19 +50,27 @@ I enjoy solving problems, learning new tech stacks, and building impactful tools
 ## ⚙️ Tech Stack
 
 **Languages:**  
-`C++` `Python` `JavaScript` `TypeScript`
+C++ • Python • JavaScript • TypeScript  
 
 **Frontend:**  
-`React` `Next.js` `TailwindCSS` `Framer Motion`
+React • Next.js • TailwindCSS • Framer Motion  
 
 **Backend:**  
-`Node.js` `Express` `REST APIs` `JWT`
+Node.js • Express • REST APIs • JWT  
 
 **Database & Cloud:**  
-`MongoDB` `PostgreSQL` `Prisma` `Cloudinary` `Vercel`
+MongoDB • PostgreSQL • Prisma • Cloudinary • Vercel  
 
 **Tools & Platforms:**  
-`Git` `GitHub` `Linux` `VS Code` `Canva` `MS Office`
+Git • GitHub • Linux • VS Code • Canva • MS Office  
+
+---
+
+## 📊 GitHub Stats
+
+![Archi's GitHub stats](https://github-readme-stats.vercel.app/api?username=A20archi&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A20archi&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=A20archi&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -85,21 +82,18 @@ git clone https://github.com/A20archi/resume.git
 cd resume
 ````
 
-Then:
-
-* Open `resume.pdf` to view my latest CV
-* Explore the projects listed above via their GitHub links
-* Connect with me on LinkedIn for collaboration or internship opportunities!
+* Open `resume.pdf` to view my CV
+* Explore projects linked above for live demos & code
+* Connect with me for collaborations or internship opportunities
 
 ---
 
-<h3 align="center">✨ Thanks for visiting! ✨</h3>
-<p align="center">Let’s build something meaningful together 💻</p>
-
----
+✨ **Thanks for visiting!**
+Let’s build something meaningful together 💻
 
 ```
 
----
+ 
 
-
+want me to make a variant for your **profile README** (a bit more personal + intro-focused)?
+```
